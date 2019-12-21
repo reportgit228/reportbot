@@ -1,0 +1,19 @@
+{
+  "name": "lesya-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "prequest": "^1.0.0",
+    "vk-io": "^4.0.0-rc.8"
+  },
+  "engines": {
+  	"node": "10.16.3"
+  }
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
